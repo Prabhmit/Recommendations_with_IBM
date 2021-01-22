@@ -18,8 +18,7 @@ The primary objective of this excercise is to analyze the interactions that user
 
 # Project Components and File Descriptions
 
-The datasets are user-item-interactions.csv and articles_community.csv. The Recommendations_with_IBM.ipynb file is a Jupyter notebook which includes the relevant code for this project. 
-top_5.p, top_10.p,top_20.p are scripts to test the model output. user_item_matrix.p is the user item matrix for the dataset required for Matrix Factorization component.
+The datasets are user-item-interactions.csv and articles_community.csv. The Recommendations_with_IBM.ipynb file is a Jupyter notebook which includes the relevant code for this project. top_5.p, top_10.p,top_20.p are scripts to test the model output. user_item_matrix.p is the user item matrix for the dataset required for Matrix Factorization component (file could not be added to github due to file-size constraints).
 
 The project has five components: 
 
